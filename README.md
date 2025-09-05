@@ -30,7 +30,7 @@ To analyze **17 seasons of IPL data (2008–2025)** and provide insights into ba
 - `IPL_Project_Report.pdf` → One-page summary report  
 
 ## 📸 Sample Visual
-![IPL Dashboard Overview](<img width="1332" height="742" alt="IPL_Dashboard png" src="https://github.com/user-attachments/assets/d9ee0a19-18e1-4699-a297-566d639cdfa1" />)
+![IPL Dashboard Overview]("C:\Users\prabu\OneDrive\Pictures\Screenshots\IPL_Dashboard.png.png")
 
 
 
